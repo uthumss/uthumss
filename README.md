@@ -3,6 +3,8 @@
 ## 🚀 About Me
 I'm a passionate AI and Data Science student with expertise in machine learning, natural language processing, and data analysis. I enjoy turning complex data into actionable insights and building intelligent systems.
 
+For any inquiries -> uthum.de.saram@gmail.com
+
 ## 💻 Technical Skills
 
 ### Languages
@@ -59,8 +61,7 @@ Here are some of my notable projects:
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YourLinkedInUsername/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/uthum-de-saram-06654722b)
 
 </div>
 
